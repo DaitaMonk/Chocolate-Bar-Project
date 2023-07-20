@@ -1,4 +1,4 @@
-# (work in progress)
+# (Analysis in progress)
 # Chocolate-Bar-Project
 
 # <center>Cracking the Cocoa Code:</center> 
